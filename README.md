@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @kamalikumar123
 - 👀 I’m interested in java programing
-- 🌱 I completed engineering at ksr college of engineering
 - 💞️ I’m looking to collaborate on github
 - 📫 How to reach me ...@kamalikumarvidhya@gmail.com
 - STAY MOTIVATED AND STUDY HARD
